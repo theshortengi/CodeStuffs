@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CW8_rand_numb_gen", "CW8_rand_numb_gen.vcproj", "{C96DE5FF-836F-40B3-B08D-D9BA41E0F176}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C96DE5FF-836F-40B3-B08D-D9BA41E0F176}.Debug.ActiveCfg = Debug|Win32
+		{C96DE5FF-836F-40B3-B08D-D9BA41E0F176}.Debug.Build.0 = Debug|Win32
+		{C96DE5FF-836F-40B3-B08D-D9BA41E0F176}.Release.ActiveCfg = Release|Win32
+		{C96DE5FF-836F-40B3-B08D-D9BA41E0F176}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

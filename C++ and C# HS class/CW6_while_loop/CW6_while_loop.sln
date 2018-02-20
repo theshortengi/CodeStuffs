@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CW6_while_loop", "CW6_while_loop.vcproj", "{03FF1274-DDE0-434D-B8DA-9B92EC925022}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{03FF1274-DDE0-434D-B8DA-9B92EC925022}.Debug.ActiveCfg = Debug|Win32
+		{03FF1274-DDE0-434D-B8DA-9B92EC925022}.Debug.Build.0 = Debug|Win32
+		{03FF1274-DDE0-434D-B8DA-9B92EC925022}.Release.ActiveCfg = Release|Win32
+		{03FF1274-DDE0-434D-B8DA-9B92EC925022}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
